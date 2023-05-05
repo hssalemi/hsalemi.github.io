@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-A skilled Information Technology Engineering graduate with experience in teaching as a Lecturer at Computer Engineering Department at Persian Gulf University, Bushehr, Iran. Research interests include Computer Networks, Social Computing, Data Mining and Machine Learning.
+I am a Ph.D. student in Information Technology at George Mason University. My research focuses on crisis informatics and modeling user behavior on social media, which relies on Natural Language Processing and Applied Machine Learning methods.
